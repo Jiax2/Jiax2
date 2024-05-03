@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Jiajia!  👋
+Currently studying Computer Engineering 
+![jiax2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiax2&theme=vue-dark&hide_border=true)
 
 <!--
 **Jiax2/Jiax2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
