@@ -1,8 +1,9 @@
 ### Hi there, I'm Jiajia!  👋
-Currently studying Computer Engineering 
+Currently studying Computer Engineering 👩‍🎓
+Always open to learn and improve my abilities! 
 
 
-![jiax2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiax2&theme=vue-dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jiax2/Jiax2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
