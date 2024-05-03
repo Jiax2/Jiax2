@@ -2,8 +2,7 @@
 Currently studying Computer Engineering 👩‍🎓
 Always open to learn and improve my abilities! 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiax2)](https://github.com/jiax2/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiax2&count_private=true)
 
 <!--
 **Jiax2/Jiax2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
