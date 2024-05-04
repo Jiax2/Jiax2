@@ -2,10 +2,7 @@
 Currently studying Computer Engineering 👩‍🎓
 Always open to learn and improve my abilities! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiax2&count_private=true)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiax2)](https://github.com/Jiax2/github-readme-stats)
+![Jiax2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiax2&show_icons=true&bg_color=00000000)
 <!--
 **Jiax2/Jiax2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
