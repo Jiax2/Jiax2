@@ -2,7 +2,7 @@
 Currently studying Computer Engineering 👩‍🎓
 Always open to learn and improve my abilities! 
 
-[![Jiajia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiax2)](https://github.com/Jiax2/github-readme-stats)
+![Jiax2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiax2&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiax2&langs_count=8)
 <!--
