@@ -4,7 +4,7 @@ Always open to learn and improve my abilities!
 
 ![Jiax2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiax2&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiax2&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiax2&langs_count=8&layout=radical)
 <!--
 **Jiax2/Jiax2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
