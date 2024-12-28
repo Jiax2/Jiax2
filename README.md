@@ -1,6 +1,5 @@
-### Hi there, I'm Jiajia!  👋
+### Hiii, I'm Jiajia (and for some I'm Diana)!  👋
 Currently studying Computer Engineering 👩‍🎓
-Always open to learn and improve my abilities! 
 
 ![Jiax2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiax2&show_icons=true&theme=radical)
 
