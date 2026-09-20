@@ -1,19 +1,18 @@
 <div align="center">
 
-<div align="center">
-  <img src="./assets/maushold.gif" width="155" alt="Maushold" />
-</div>
+<img src="./assets/maushold.gif" width="155" alt="Maushold" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2800&pause=700&color=CBA6F7&center=true&vCenter=true&repeat=true&width=650&height=65&lines=hi%2C+i%27m+Jiax2;computer+science+student;embedded+systems+%E2%80%A2+IoT+%E2%80%A2+FPGA"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+<br>
 
-<sub>────────── ✦ ──────────</sub>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2800&pause=700&color=CBA6F7&center=true&vCenter=true&repeat=true&width=650&height=65&lines=hi%2C+i%27m+Jiax2;computer+science+student;embedded+systems+%E2%80%A2+IoT+%E2%80%A2+FPGA"
+    alt="Typing SVG"
+  />
+</a>
+
+<br>
+<sub>──────── ✦ ────────</sub>
 
 <h3>Languages</h3>
 
@@ -22,37 +21,26 @@
   alt="Languages"
 />
 
-<p>
-  <strong>C · C++ · Python · Java · C# · JavaScript · VHDL · SQL</strong>
-</p>
+<br>
 
-<sub>────────── ✦ ──────────</sub>
+<strong>C · C++ · Python · Java · C# · VHDL · SQL</strong>
 
-<h3>Embedded & Technologies</h3>
+<br>
+<sub>──────── ✦ ────────</sub>
 
-<img
-  src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,platformio&theme=dark"
-  alt="Embedded technologies"
-/>
-
-<p>
-  <strong>Arduino · PlatformIO · ESP32 · FPGA · VHDL · MQTT · PLC</strong>
-</p>
-
-<sub>────────── ✦ ──────────</sub>
-
-<h3>Tools</h3>
+<h3>Tech & Tools</h3>
 
 <img
-  src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,git,github,githubactions,docker,linux&theme=dark"
-  alt="Tools"
+  src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,platformio,vscode,git,github,docker,linux&theme=dark"
+  alt="Tech and Tools"
 />
 
-<p>
-  <strong>Arduino IDE · PlatformIO · AMD Vivado · VS Code · Git · GitHub · Docker · Linux</strong>
-</p>
+<br>
 
-<sub>────────── ✦ ──────────</sub>
+<strong>Arduino · PlatformIO · ESP32 · FPGA · MQTT · PLC · AMD Vivado · Docker · Linux</strong>
+
+<br>
+<sub>──────── ✦ ────────</sub>
 
 <h3>Connect with me</h3>
 
@@ -72,11 +60,8 @@
   />
 </a>
 
-<p>
-  <strong>LinkedIn · GitHub</strong>
-</p>
-
-<sub>────────── ✦ ──────────</sub>
+<br>
+<sub>──────── ✦ ────────</sub>
 
 <h3>Snake eating my contributions</h3>
 
