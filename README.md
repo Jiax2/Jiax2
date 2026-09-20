@@ -1,69 +1,57 @@
 <div align="center">
 
-<img src="./assets/maushold.gif" width="180" alt="Maushold" />
-
-<br><br>
+<img src="./assets/maushold.gif" width="160" alt="Maushold" />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=2800&pause=700&color=CBA6F7&center=true&vCenter=true&repeat=true&width=650&height=90&lines=hi%2C+i%27m+Jiax2;computer+science+student;embedded+systems+%E2%80%A2+IoT+%E2%80%A2+FPGA"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2800&pause=700&color=CBA6F7&center=true&vCenter=true&repeat=true&width=650&height=70&lines=hi%2C+i%27m+Jiax2;computer+science+student;embedded+systems+%E2%80%A2+IoT+%E2%80%A2+FPGA"
     alt="Typing SVG"
   />
 </a>
 
-<br>
-
-<h2>Languages</h2>
+<h3>Languages</h3>
 
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=c,cpp,python,java,cs,javascript&theme=dark" />
 
-<br><br>
+<p>
+  <strong>C · C++ · Python · Java · C# · JavaScript · VHDL · SQL</strong>
+</p>
 
-<sub>
-C · C++ · Python · Java · C# · JavaScript · VHDL · SQL
-</sub>
-
-<br><br>
-
-<h2>Embedded & Technologies</h2>
+<h3>Embedded & Technologies</h3>
 
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,platformio&theme=dark" />
 
-<br><br>
+<p>
+  <strong>Arduino · PlatformIO · ESP32 · FPGA · VHDL · MQTT · PLC</strong>
+</p>
 
-<img src="https://img.shields.io/badge/ESP32-1f1f28?style=flat-square&logo=espressif&logoColor=CBA6F7" />
-<img src="https://img.shields.io/badge/FPGA-1f1f28?style=flat-square&logo=xilinx&logoColor=CBA6F7" />
-<img src="https://img.shields.io/badge/VHDL-1f1f28?style=flat-square&logoColor=CBA6F7" />
-<img src="https://img.shields.io/badge/MQTT-1f1f28?style=flat-square&logo=mqtt&logoColor=CBA6F7" />
-<img src="https://img.shields.io/badge/PLC-1f1f28?style=flat-square&logoColor=CBA6F7" />
-
-<br><br>
-
-<h2>Tools</h2>
+<h3>Tools</h3>
 
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,git,github,githubactions,docker,linux&theme=dark" />
 
-<br><br>
+<p>
+  <strong>Arduino IDE · PlatformIO · AMD Vivado · VS Code · Git · GitHub · Docker · Linux</strong>
+</p>
 
-<sub>
-Arduino IDE · PlatformIO · AMD Vivado · VS Code · Git · GitHub · Docker · Linux
-</sub>
-
-<br><br>
-
-<h2>Connect with me</h2>
+<h3>Connect with me</h3>
 
 <a href="https://www.linkedin.com/in/jiax2li/">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
+  <img
+    src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=dark"
+    height="48"
+    alt="LinkedIn"
+  />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Jiax2">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" alt="GitHub" />
+  <img
+    src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark"
+    height="48"
+    alt="GitHub"
+  />
 </a>
 
-<br><br><br>
-
-<h2>Contributions</h2>
+<h3>Contributions</h3>
 
 <picture>
   <source
