@@ -9,29 +9,31 @@
   />
 </a>
 
+<hr>
+
 <h3>Languages</h3>
 
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=c,cpp,python,java,cs,javascript&theme=dark" />
 
-<p>
-  <strong>C · C++ · Python · Java · C# · JavaScript · VHDL · SQL</strong>
-</p>
+<p><strong>C · C++ · Python · Java · C# · JavaScript · VHDL · SQL</strong></p>
+
+<hr>
 
 <h3>Embedded & Technologies</h3>
 
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,platformio&theme=dark" />
 
-<p>
-  <strong>Arduino · PlatformIO · ESP32 · FPGA · VHDL · MQTT · PLC</strong>
-</p>
+<p><strong>Arduino · PlatformIO · ESP32 · FPGA · VHDL · MQTT · PLC</strong></p>
+
+<hr>
 
 <h3>Tools</h3>
 
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,git,github,githubactions,docker,linux&theme=dark" />
 
-<p>
-  <strong>Arduino IDE · PlatformIO · AMD Vivado · VS Code · Git · GitHub · Docker · Linux</strong>
-</p>
+<p><strong>Arduino IDE · PlatformIO · AMD Vivado · VS Code · Git · GitHub · Docker · Linux</strong></p>
+
+<hr>
 
 <h3>Connect with me</h3>
 
@@ -51,7 +53,9 @@
   />
 </a>
 
-<h3>Contributions</h3>
+<hr>
+
+<h3>Snake eating my contributions</h3>
 
 <picture>
   <source
@@ -63,7 +67,7 @@
     srcset="https://raw.githubusercontent.com/Jiax2/Jiax2/output/github-snake.svg"
   />
   <img
-    alt="GitHub contribution snake"
+    alt="Snake eating my contributions"
     src="https://raw.githubusercontent.com/Jiax2/Jiax2/output/github-snake.svg"
     width="100%"
   />
