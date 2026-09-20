@@ -1,60 +1,69 @@
 <div align="center">
 
-<img align="right" width="180" src="./assets/pokemon.gif" />
+<img src="./assets/maushold.gif" width="180" alt="Maushold" />
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=700&color=CBA6F7&center=true&vCenter=true&repeat=true&width=620&height=100&lines=hi%2C+i%27m+Jiax2+%E2%99%A1;computer+science+student;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Embedded;building+things+with+code+%E2%9C%A6"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=2800&pause=700&color=CBA6F7&center=true&vCenter=true&repeat=true&width=650&height=90&lines=hi%2C+i%27m+Jiax2;computer+science+student;embedded+systems+%E2%80%A2+IoT+%E2%80%A2+FPGA"
     alt="Typing SVG"
   />
 </a>
 
 <br>
 
-<pre>
-computer science student
-C++ • Python • Embedded • IoT
-</pre>
+<h2>Languages</h2>
 
-<br clear="both">
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=c,cpp,python,java,cs,javascript&theme=dark" />
 
-</div>
+<br><br>
 
-## Main skills
+<sub>
+C · C++ · Python · Java · C# · JavaScript · VHDL · SQL
+</sub>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,arduino&theme=dark" />
-</p>
+<br><br>
 
-## Tools
+<h2>Embedded & Technologies</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
-</p>
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,platformio&theme=dark" />
 
-## Connect with me
+<br><br>
 
-<p>
-  <a href="https://github.com/Jiax2">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" />
-  </a>
+<img src="https://img.shields.io/badge/ESP32-1f1f28?style=flat-square&logo=espressif&logoColor=CBA6F7" />
+<img src="https://img.shields.io/badge/FPGA-1f1f28?style=flat-square&logo=xilinx&logoColor=CBA6F7" />
+<img src="https://img.shields.io/badge/VHDL-1f1f28?style=flat-square&logoColor=CBA6F7" />
+<img src="https://img.shields.io/badge/MQTT-1f1f28?style=flat-square&logo=mqtt&logoColor=CBA6F7" />
+<img src="https://img.shields.io/badge/PLC-1f1f28?style=flat-square&logoColor=CBA6F7" />
 
-  <!--
-  Cuando tengas tus links, cambia las URLs y quita este comentario:
+<br><br>
 
-  <a href="TU_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
-  </a>
+<h2>Tools</h2>
 
-  <a href="TU_DISCORD">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" />
-  </a>
-  -->
-</p>
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,git,github,githubactions,docker,linux&theme=dark" />
 
-<br>
+<br><br>
 
-<div align="center">
+<sub>
+Arduino IDE · PlatformIO · AMD Vivado · VS Code · Git · GitHub · Docker · Linux
+</sub>
+
+<br><br>
+
+<h2>Connect with me</h2>
+
+<a href="https://www.linkedin.com/in/jiax2li/">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Jiax2">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" alt="GitHub" />
+</a>
+
+<br><br><br>
+
+<h2>Contributions</h2>
 
 <picture>
   <source
@@ -66,8 +75,9 @@ C++ • Python • Embedded • IoT
     srcset="https://raw.githubusercontent.com/Jiax2/Jiax2/output/github-snake.svg"
   />
   <img
-    alt="github contribution snake"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/Jiax2/Jiax2/output/github-snake.svg"
+    width="100%"
   />
 </picture>
 
